@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ I am a middle school student from China
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like c python linux and java
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+jiahao_tang@foxmail.com
